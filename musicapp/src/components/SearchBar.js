@@ -30,6 +30,5 @@ class SearchBar extends React.Component{
             </Paper>
         );
     }
-}
 
 export default SearchBar;
